@@ -41,6 +41,6 @@ Covering salesman problem (CSP) is a generalization of traveling salesman proble
 
 
 ### Source code
-Read the Jupyter Notebook source code in this project
+Read the Jupyter Notebook [source code](./Summary.ipynb) in this project
 
 
