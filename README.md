@@ -1,8 +1,8 @@
 # Covering-salesman-problem
-This project compares different approaches for solving  covering-salesman problem
+This project compares different approaches for solving  covering-salesman problem.
 
 ### Covering salesman problem
-Covering salesman problem (CSP) is a generalization of traveling salesman problem (TSP). It is stated as follows: to identify the minimum cost tour of a subset of n given cities such that every city not on the tour is within some predetermined covering distance standard, S, of a city that is on the tour.
+Covering salesman problem (CSP) is a generalization of traveling salesman problem (TSP). It is stated as follows: to identify the minimum cost tour of a subset of n given cities such that every city not on the tour is within some predetermined covering distance standard, S, of a city that is on the tour. [Reference](https://www.jstor.org/stable/25768381?seq=1)
 
 ###  Local Search Method: LS 2
 + __Main Idea:__
